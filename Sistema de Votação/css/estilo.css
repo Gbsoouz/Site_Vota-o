@@ -1,0 +1,29 @@
+body {
+    background: blue;
+}
+
+h1 {
+    color: pink;
+    font-size: 80px;
+}
+
+h2 {
+    color: whitesmoke;
+    font-size: 25px;
+}
+.center {
+    display: block;          
+    margin: 0 auto;    
+    text-align: center;      
+}
+
+.botao-container {
+    display: flex; 
+    gap: 10px;    
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;   
+    cursor: pointer;  
+}
